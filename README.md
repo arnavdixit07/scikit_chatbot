@@ -9,4 +9,9 @@ Features
 -Easy to extend with more intents and responses
 
 Run the chatbot using-
-    python chatbot_ui.py
+    python chatbot_ui.py or python chatbot_api.py
+
+
+1.)AI.py contains the main functional code including the chatbot's logic
+2.)chatbot_gui.py- run to open the offline GUI (tkinter)
+3.)chatbot_api.py- run to open the web-app (HTML,CSS,JS)
